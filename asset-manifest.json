@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-range-input/static/css/main.d61d3218.chunk.css",
+    "main.js": "/react-range-input/static/js/main.29f65d85.chunk.js",
+    "main.js.map": "/react-range-input/static/js/main.29f65d85.chunk.js.map",
+    "runtime-main.js": "/react-range-input/static/js/runtime-main.174f6fad.js",
+    "runtime-main.js.map": "/react-range-input/static/js/runtime-main.174f6fad.js.map",
+    "static/js/2.140c1c83.chunk.js": "/react-range-input/static/js/2.140c1c83.chunk.js",
+    "static/js/2.140c1c83.chunk.js.map": "/react-range-input/static/js/2.140c1c83.chunk.js.map",
+    "index.html": "/react-range-input/index.html",
+    "static/css/main.d61d3218.chunk.css.map": "/react-range-input/static/css/main.d61d3218.chunk.css.map",
+    "static/js/2.140c1c83.chunk.js.LICENSE.txt": "/react-range-input/static/js/2.140c1c83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.174f6fad.js",
+    "static/js/2.140c1c83.chunk.js",
+    "static/css/main.d61d3218.chunk.css",
+    "static/js/main.29f65d85.chunk.js"
+  ]
+}
